@@ -24,6 +24,7 @@ Deployed url:https://autonomous-claims-agent-4pcb.onrender.com/
 
 To test in Postman: https://autonomous-claims-agent-4pcb.onrender.com/process-claim (use post method and upload file in body)
 
+This solution includes a REST API accepting FNOL documents, extracting key fields, applying routing logic, and returning an explainable JSON decision.
 
 Sample generated output format in json:<img width="1781" height="947" alt="image" src="https://github.com/user-attachments/assets/bbb47bef-a553-409a-abe5-81baf995b93a" />
 
